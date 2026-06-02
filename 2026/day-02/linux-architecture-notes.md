@@ -1,8 +1,8 @@
 # **Day 02 – Linux Architecture, Processes, and systemd**
 
-##**How Linux works under the hood:**##
+## **How Linux works under the hood:** 
 
-##**1. The core components of Linux**##
+## **1. The core components of Linux**
    (kernel, user space, init/systemd)
    Linux is an open-source operating system used to run computers, servers, smartphones, cloud systems, and many other devices.
    Linux is not a single OS but a kernel modified/packaged with different tools by different distributers like Ubuntu, Redhat , Debian,etc
